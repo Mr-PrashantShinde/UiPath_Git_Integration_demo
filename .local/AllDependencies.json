@@ -997,9 +997,9 @@
     "restore": {
       "projectUniqueName": "TestInvoke",
       "projectName": "TestInvoke",
-      "projectPath": "C:\\Users\\prashant.shinde\\Downloads\\TestInvoke\\.local",
+      "projectPath": "C:\\Users\\prashant.shinde\\Documents\\UiPath\\UiPath_Git_Integration_demo\\.local",
       "packagesPath": "C:\\Users\\prashant.shinde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prashant.shinde\\Downloads\\TestInvoke\\.local"
+      "outputPath": "C:\\Users\\prashant.shinde\\Documents\\UiPath\\UiPath_Git_Integration_demo\\.local"
     },
     "frameworks": {
       "net461": {
